@@ -1,0 +1,43 @@
+Python-Focused Essential DSA LeetCode List (FAANG/SRE Prep)
+
+⸻
+
+1. Arrays & Strings (Two pointers, sliding window, prefix sum)
+	•	Two Sum: https://leetcode.com/problems/two-sum/
+	•	Best Time to Buy & Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+	•	Max Consecutive Ones: https://leetcode.com/problems/max-consecutive-ones/
+	•	Move Zeroes: https://leetcode.com/problems/move-zeroes/
+	•	Reverse String: https://leetcode.com/problems/reverse-string/
+	•	Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
+	•	Sliding Window Maximum: https://leetcode.com/problems/sliding-window-maximum/
+	•	Subarray Sum Equals K: https://leetcode.com/problems/subarray-sum-equals-k/
+
+2. Linked Lists (Fast/slow pointers, reversal, merging)
+	•	Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/
+	•	Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/
+	•	Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
+	•	Remove Nth Node from End: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+3. Stack & Queue (Monotonic stack, valid parentheses, BFS queue)
+	•	Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
+	•	Min Stack: https://leetcode.com/problems/min-stack/
+	•	Evaluate Reverse Polish Notation: https://leetcode.com/problems/evaluate-reverse-polish-notation/
+	•	Daily Temperatures: https://leetcode.com/problems/daily-temperatures/
+
+4. Hashing / Dictionaries (Frequency map, two sum, sliding window)
+	•	Two Sum: https://leetcode.com/problems/two-sum/
+	•	Contains Duplicate: https://leetcode.com/problems/contains-duplicate/
+	•	Group Anagrams: https://leetcode.com/problems/group-anagrams/
+	•	Longest Substring Without Repeating Characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+5. Binary Search (Classic BS, rotated array, ceiling/floor)
+	•	Binary Search: https://leetcode.com/problems/binary-search/
+	•	Search Insert Position: https://leetcode.com/problems/search-insert-position/
+	•	Find First and Last Position of Element: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+	•	Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+6. Trees (Optional but useful) (DFS, BFS, traversal)
+	•	Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+	•	Validate Binary Search Tree: https://leetcode.com/problems/validate-binary-search-tree/
+	•	Symmetric Tree: https://leetcode.com/problems/symmetric-tree/
+	•	Binary Tree Level Order Traversal: https://leetcode.com/problems/binary-tree-level-order-traversal/
